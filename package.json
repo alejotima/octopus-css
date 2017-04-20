@@ -1,0 +1,27 @@
+{
+    "name": "w3css",
+    "version": "4.03",
+    "description": "W3.CSS is a modern CSS framework with built-in responsiveness",
+    "main": "w3.css",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alejotima/w3css.git"
+    },
+    "keywords": [
+        "css",
+        "w3css",
+        "w3-css",
+        "w3c",
+        "w3",
+        "w3.css"
+    ],
+    "author": "alejotima",
+    "license": "",
+    "bugs": {
+        "url": "https://github.com/alejotima/w3css/issues"
+    },
+    "homepage": "https://github.com/alejotima/w3css#readme"
+}
