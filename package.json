@@ -1,6 +1,6 @@
 {
-    "name": "w3css",
-    "version": "4.03",
+    "name": "octopus-css",
+    "version": "4.0.3",
     "description": "W3.CSS is a modern CSS framework with built-in responsiveness",
     "main": "w3.css",
     "scripts": {
@@ -16,12 +16,13 @@
         "w3-css",
         "w3c",
         "w3",
-        "w3.css"
+        "w3.css",
+        "octopus-css"
     ],
     "author": "alejotima",
     "license": "",
     "bugs": {
-        "url": "https://github.com/alejotima/w3css/issues"
+        "url": "https://github.com/alejotima/octopus-css/issues"
     },
-    "homepage": "https://github.com/alejotima/w3css#readme"
+    "homepage": "https://github.com/alejotima/octopus-css#readme"
 }
